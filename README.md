@@ -67,5 +67,5 @@
 10. User Profile Management: The app should allow the user to create and manage their own profile, with features such as saved recipes and task history.
 
 ![Trello](trello.png)
-
-
+![Trello](trello2.png)
+![Trello](trello3.png)
