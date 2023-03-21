@@ -14,7 +14,7 @@
 9. If toppings for the chili were an option, what would be some of the toppings you would like to chose from? 
 10. Should the chili and rice be served with a fork or a spoon? 
 
-## Chef Salad 
+### Chef Salad 
 
 1. A chef salad is generally made with lettuce, hard boiled eggs, cucumber, tomatoes, cheddar, swiss, ham, turkey, and croutons. Would you like the option to customize the salad?
 2. Are there any toppings you feel are missing from the above recipe? 
