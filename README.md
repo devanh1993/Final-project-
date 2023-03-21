@@ -55,13 +55,13 @@
 
 ## Top 10 Requirements
 
-1. The RoboTasker will display an option to pick between white rice and brown rice when the " Chili and Rice" has been selected. 
-2. The RoboTasker will display 3 different sizes that users can choose from.
-3. The RoboTasker will display Beyond meat as a vegetarian option for the chili and rice.
-4. The RoboTasker will display an offer to toss your salad for you.
-5. The RoboTasker will display an option for fat free dressing.
-6.
-7.
-8.
-9.
-10.
+1. Recipe Selection: The user should be able to easily select one of the four pre-installed recipes from the app's main menu. 
+2. Parameter Customization: The user should be able to input customized parameters for the selected recipe, such as the quantity of ingredients or the scheduled start time. 
+3. Task Progress: The user should be able to see the progress of the robot's task in real-time, with a clear indication of how much of the task has been completed and how much is left.
+4. Task Completion Notification: The app should notify the user when the robot has completed its task, both audibly and visually. 
+5. Error Handling: The app should provide clear error messages and guidance if the robot encounters an issue while performing its task. 
+6. Pause/Resume Functionality: The user should be able to pause and resume the robot's task at any time. 
+7. App Compatibility: The app should be compatible with multiple devices and operating systems, to ensure a wide range of users can access it. 
+8. Recipe Editing: The user should be able to edit and save their own customized recipes within the app. 
+9. Multiple Task Management: The user should be able to manage and schedule multiple tasks at once, with clear indications of which task is currently in progress. 
+10. User Profile Management: The app should allow the user to create and manage their own profile, with features such as saved recipes and task history.
