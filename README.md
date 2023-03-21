@@ -52,3 +52,16 @@
 8.
 9.
 10.
+
+## Top 10 Requirements
+
+1. The RoboTasker will display an option to pick between white rice and brown rice when the " Chili and Rice" has been selected. 
+2. The RoboTasker will display 3 different sizes that users can choose from.
+3. The RoboTasker will display Beyond meat as a vegetarian option for the chili and rice.
+4. The RoboTasker will display an offer to toss your salad for you.
+5. The RoboTasker will display an option for fat free dressing.
+6.
+7.
+8.
+9.
+10.
