@@ -29,29 +29,29 @@
 
 ## Tuna Fish Sandwich
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. What ingredients are required to make a tuna fish sandwich? 
+2. What is the process for preparing the tuna fish filling? 
+3. How should the bread be prepared for the sandwich? 
+4. Should the sandwich be toasted or not? 
+5. What condiments are typically added to a tuna fish sandwich? 
+6. How should the tuna fish filling be distributed on the bread?
+7. Should any additional toppings be added to the sandwich?
+8. How should the sandwich be cut and presented? 
+9. Is there a preferred temperature at which the sandwich should be served?
+10. How long should the robot take to prepare a tuna fish sandwich from start to finish?
 
 ## Chikcen Noodle Soup
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. What ingredients are required to make chicken soup? 
+2. What is the process for preparing the chicken for the soup?
+3. What vegetables are typically added to chicken soup? 
+4. How should the vegetables be prepared for the soup? 
+5. What spices and herbs are typically added to chicken soup?
+6. Should the chicken be shredded or left in larger pieces for the soup?
+7. Should noodles or other starches be added to the soup? 
+8. How should the soup be presented and served?
+9. Is there a preferred temperature at which the soup should be served? 
+10. How long should the robot take to prepare a bowl of chicken soup from start to finish?
 
 ## Top 10 Requirements
 
