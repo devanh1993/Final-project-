@@ -65,3 +65,5 @@
 8. Recipe Editing: The user should be able to edit and save their own customized recipes within the app. 
 9. Multiple Task Management: The user should be able to manage and schedule multiple tasks at once, with clear indications of which task is currently in progress. 
 10. User Profile Management: The app should allow the user to create and manage their own profile, with features such as saved recipes and task history.
+
+![alt text](image.jpg)
