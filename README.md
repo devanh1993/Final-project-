@@ -40,7 +40,7 @@
 9. Is there a preferred temperature at which the sandwich should be served?
 10. How long should the robot take to prepare a tuna fish sandwich from start to finish?
 
-## Chikcen Noodle Soup
+## Chicken Noodle Soup
 
 1. What ingredients are required to make chicken soup? 
 2. What is the process for preparing the chicken for the soup?
